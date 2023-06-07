@@ -3,6 +3,8 @@ Personal portfolio website with admin panel.
 
 Link to the website: 
 
+
+
 The project was using PHP Laravel framework with Javascript, jQuery and frontend templates for the home page and admin panel. 
 The main home page visible for guest consists of data that can be dynamically change by the administrator panel.
 
