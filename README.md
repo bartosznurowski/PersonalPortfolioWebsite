@@ -1,8 +1,6 @@
 # PersonalPortfolioWebsite
 Personal portfolio website with admin panel.
 
-Link to the website: 
-
 
 
 The project was using PHP Laravel framework with Javascript, jQuery and frontend templates for the home page and admin panel. 
